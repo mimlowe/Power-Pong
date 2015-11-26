@@ -1,0 +1,53 @@
+Initialize engine version: 4.5.1f3 (73cd57f80e3e)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 650 Ti BOOST (ID=0x11c2)
+    Vendor:   NVIDIA
+    VRAM:     1989 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Stuff\CS179\Power Pong Windows\PowerPongWin_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Stuff\CS179\Power Pong Windows\PowerPongWin_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Stuff\CS179\Power Pong Windows\PowerPongWin_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Stuff\CS179\Power Pong Windows\PowerPongWin_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Stuff\CS179\Power Pong Windows\PowerPongWin_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Stuff\CS179\Power Pong Windows\PowerPongWin_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Stuff\CS179\Power Pong Windows\PowerPongWin_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading C:\Stuff\CS179\Power Pong Windows\PowerPongWin_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Stuff\CS179\Power Pong Windows\PowerPongWin_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Stuff\CS179\Power Pong Windows\PowerPongWin_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+- Completed reload, in  0.041 seconds
+desktop: 1920x1200 59Hz; virtual: 1920x1200 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1783)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1783)
+
+Platform assembly: C:\Stuff\CS179\Power Pong Windows\PowerPongWin_Data\Managed\Boo.Lang.dll (this message is harmless)
+Platform assembly: C:\Stuff\CS179\Power Pong Windows\PowerPongWin_Data\Managed\System.dll (this message is harmless)
+UnloadTime: 0.873394 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 849.
+Total: 0.780934 ms (FindLiveObjects: 0.031622 ms CreateObjectMapping: 0.013251 ms MarkObjects: 0.141550 ms  DeleteObjects: 0.079207 ms)
+
+UnloadTime: 1.974472 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 812.
+Total: 1.226666 ms (FindLiveObjects: 0.049994 ms CreateObjectMapping: 0.019877 ms MarkObjects: 0.283401 ms  DeleteObjects: 0.018070 ms)
+
+Collision
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Brick_Explode.OnCollisionEnter (UnityEngine.Collision Collection) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
