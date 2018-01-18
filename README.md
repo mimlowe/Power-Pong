@@ -21,3 +21,4 @@ Pong/Breakout Hybrid built in [Unity](https://unity3d.com/)
 
 
 ![alt](http://michaelmlowe.com/img/power_pong_1.png)
+![alt](http://michaelmlowe.com/img/power_pong_3.png)
